@@ -1,4 +1,4 @@
-# WORLD-tiniest-mouse-joysttc-based-
+# WORLD-tiniest-mouse-joystic-based-
 you can use this mouse in every mini devices like own custom-built, portable personal computer designed for specific tasks.  and any orrree..
 
 # 🕹️ Pico Joystick Mouse 🖱️
